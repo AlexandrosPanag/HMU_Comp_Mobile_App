@@ -1,6 +1,6 @@
-# HMU Companion Application
-A great fundamental MSc Assistant University Navigator project implemented on Android Studio.
+# HMU Companion Applicatiion
 
+A helpful HMU MSc Companion Application that can be used to assist MSc Students.
 
 
 
