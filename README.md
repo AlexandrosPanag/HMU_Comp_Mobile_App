@@ -1,9 +1,45 @@
 # HMU Companion Applicatiion
 
 
-Credits: HMU M.Sc. In Informatics Engineering https://mscie.hmu.gr, Hellenic Mediterranean University (HMU) hmu.gr
+Credits: HMU M.Sc. In Informatics Engineering https://mscie.hmu.gr, Hellenic Mediterranean University (HMU) hmu.gr, [@alexandrospanag](https://github.com/alexandrospanag)
 
 
+ 
+# HMU Companion Application
+
+This is the HMU Companion Application, an Android application designed to provide useful information and resources for students and faculty at HMU.
+
+## Features
+
+- Navigation drawer with various sections
+- Floating action button to open webmail
+- Update option to check for the latest version on GitHub
+- Restaurant menu with weekly schedule
+
+## Setup
+
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/AlexandrosPanag/HMU_Companion_Application.git
+    ```
+
+2. Open the project in Android Studio.
+
+3. Build and run the project on an Android device or emulator.
+
+## Usage
+
+- Use the navigation drawer to access different sections of the app.
+- Click the floating action button to open the webmail.
+- Select the "Update" option to check for the latest version on GitHub.
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request.
+
+## License
+
+This project is licensed under the MIT License.
 
 
 A helpful HMU MSc Companion Application that can be used to assist MSc Students.
@@ -21,8 +57,6 @@ This work is licensed under a CC-BY-NS-SA License.
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
-
-Credits: [@alexandrospanag](https://github.com/alexandrospanag)
 
 
 
