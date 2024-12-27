@@ -1,12 +1,19 @@
 # HMU Companion Applicatiion
 
+
+Credits: HMU M.Sc. In Informatics Engineering https://mscie.hmu.gr, Hellenic Mediterranean University (HMU) hmu.gr
+
+
+
+
 A helpful HMU MSc Companion Application that can be used to assist MSc Students.
 
 
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-This work is licensed under a
+This work is licensed under a CC-BY-NS-SA License.
+
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
