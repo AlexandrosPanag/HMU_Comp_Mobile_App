@@ -28,11 +28,10 @@ This is the HMU Companion Application, an Android application designed to provid
 
 ## License
 
-This project is licensed under the MIT License.
+This work is licensed under a CC-BY-NS-SA License.
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-This work is licensed under a CC-BY-NS-SA License.
 
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
