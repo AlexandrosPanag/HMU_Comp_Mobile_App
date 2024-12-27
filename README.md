@@ -18,14 +18,6 @@ This is the HMU Companion Application, an Android application designed to provid
 
 ## Setup
 
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/AlexandrosPanag/HMU_Companion_Application.git
-    ```
-
-2. Open the project in Android Studio.
-
-3. Build and run the project on an Android device or emulator.
 
 ## Usage
 
@@ -33,18 +25,10 @@ This is the HMU Companion Application, an Android application designed to provid
 - Click the floating action button to open the webmail.
 - Select the "Update" option to check for the latest version on GitHub.
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request.
 
 ## License
 
 This project is licensed under the MIT License.
-
-
-A helpful HMU MSc Companion Application that can be used to assist MSc Students.
-
-
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
