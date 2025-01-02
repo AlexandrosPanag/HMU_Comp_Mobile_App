@@ -22,8 +22,6 @@ This is the HMU Companion Application, an Android application designed to provid
 ## Usage
 
 - Use the navigation drawer to access different sections of the app.
-- Click the floating action button to open the webmail.
-- Select the "Update" option to check for the latest version on GitHub.
 
 
 ## License
