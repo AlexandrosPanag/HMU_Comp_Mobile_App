@@ -12,7 +12,7 @@ This is the HMU Companion Application, an Android application designed to provid
 ## Features
 
 - Navigation drawer with various sections
-- Floating action button to open webmail
+- Floating action button to open webmail among many other MSCIE useful HMU related links.
 - Update option to check for the latest version on GitHub
 - Restaurant menu with weekly schedule
 
