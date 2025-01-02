@@ -1,4 +1,4 @@
-# HMU Companion Applicatiion
+# HMU Comp - A mobile HMU Companion Applicatiion
 
 
 Credits: HMU M.Sc. In Informatics Engineering https://mscie.hmu.gr, Hellenic Mediterranean University (HMU) hmu.gr, [@alexandrospanag](https://github.com/alexandrospanag)
