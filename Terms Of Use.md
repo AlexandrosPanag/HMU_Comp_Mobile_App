@@ -32,7 +32,7 @@ Under the following terms:
 
 ## Contact Information
 
-If you have any questions about these Terms, please contact us at [your contact information].
+If you have any questions about these Terms, please contact us at alexandrospanag.github.io.
 
 ---
 
