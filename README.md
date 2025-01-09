@@ -21,7 +21,7 @@ This is the HMU Companion Application, an Android application designed to provid
 
 
 ## Setup
-Download the mobile apk through your smartphone android device, ensure that your phone's installation settings are "Allow access from Unknown Apps -> Yes" & you're set to go!
+Download the mobile apk through your smartphone android device, ensure that your phone's installation settings are "Allow access from Unknown Apps -> Yes" & you're ready to launch the application!
 
 ## Usage
 
