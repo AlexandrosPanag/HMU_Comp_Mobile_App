@@ -14,10 +14,14 @@ This is the HMU Companion Application, an Android application designed to provid
 - Navigation drawer with various sections
 - Floating action button to open webmail among many other MSCIE useful HMU related links.
 - Update option to check for the latest version on GitHub
-- Restaurant menu with weekly schedule
+
+
+## Current Version
+1.0.0
+
 
 ## Setup
-
+Download the mobile apk through your smartphone android device, ensure that your phone's installation settings are "Allow access from Unknown Apps -> Yes" & you're set to go!
 
 ## Usage
 
