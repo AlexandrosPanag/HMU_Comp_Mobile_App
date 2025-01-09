@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Welcome to HMU Comp, an all-in-one application designed for students of HMU. This app provides easy access to essential resources such as grades, schedules, faculty information, news, and more. Stay organized and up-to-date with everything you need for your academic journey at HMU.
+Welcome to <b>HMU Comp</b>, an all-in-one application designed for students of HMU. This app provides easy access to essential resources such as <b>grades, schedules, faculty information, news, and more</b>. Stay organized and up-to-date with everything you need for your academic journey at HMU.
 
 <img src="https://raw.githubusercontent.com/AlexandrosPanag/HMU_Companion_Application/refs/heads/main/Version_1_0_1.png" alt="Description" width="199" height="428"> 
 
@@ -13,11 +13,11 @@ Welcome to HMU Comp, an all-in-one application designed for students of HMU. Thi
 
 ## Credits:  
 
-[@alexandrospanag](https://github.com/alexandrospanag)
+<b> [@alexandrospanag](https://github.com/alexandrospanag) </b>
 
-HMU M.Sc. In Informatics Engineering https://mscie.hmu.gr
+<b> HMU M.Sc. In Informatics Engineering https://mscie.hmu.gr </b>
 
-Hellenic Mediterranean University (HMU) hmu.gr,
+<b> Hellenic Mediterranean University (HMU) hmu.gr </b>
 
 # HMU Companion Application
 
