@@ -9,7 +9,13 @@ Welcome to HMU Comp, an all-in-one application designed for students of HMU. Thi
 ![](https://raw.githubusercontent.com/AlexandrosPanag/HMU_Companion_Application/refs/heads/main/Version_1_0_1.png)
 
 
-Credits: HMU M.Sc. In Informatics Engineering https://mscie.hmu.gr, Hellenic Mediterranean University (HMU) hmu.gr, [@alexandrospanag](https://github.com/alexandrospanag)
+##Credits:  
+
+[@alexandrospanag](https://github.com/alexandrospanag)
+
+HMU M.Sc. In Informatics Engineering https://mscie.hmu.gr
+
+Hellenic Mediterranean University (HMU) hmu.gr,
 
 # HMU Companion Application
 
