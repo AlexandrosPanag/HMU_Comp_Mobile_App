@@ -1,4 +1,4 @@
-# HMU Comp - A mobile HMU Companion Applicatiion
+# HMU Comp - A mobile HMU Companion Application
 
 
 ## Introduction
