@@ -32,7 +32,7 @@ Welcome to <b>HMU Comp</b>, an all-in-one application designed for students of H
 
 
 ## Setup
-Download the mobile apk through your smartphone android device, ensure that your phone's installation settings are: <b>"Allow access from Unknown Apps -> Yes" & you're ready to launch the application! </b>
+Download the mobile apk through your smartphone android device, ensure that your phone's installation settings are: <b>"Allow access from Unknown Apps -> Yes" </b>
 
 ## Current Version
 1.0.1
