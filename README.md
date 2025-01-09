@@ -16,16 +16,13 @@ This is the HMU Companion Application, an Android application designed to provid
 - Update option to check for the latest version on GitHub
 
 
-## Current Version
-1.0.0
 
 
 ## Setup
 Download the mobile apk through your smartphone android device, ensure that your phone's installation settings are "Allow access from Unknown Apps -> Yes" & you're ready to launch the application!
 
-## Usage
-
-- Use the navigation drawer to access different sections of the app.
+## Current Version
+1.0.0
 
 
 ## License
