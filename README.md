@@ -15,7 +15,7 @@ Welcome to <b>HMU Comp</b>, an all-in-one application designed for students of H
 
 ## Credits:  
 
-<b> [@alexandrospanag](https://github.com/alexandrospanag) </b>
+<b> Alexandros Panagiotakopoulos, [@alexandrospanag](https://github.com/alexandrospanag), alexandrospanag,github.io </b>
 
 <b> HMU M.Sc. In Informatics Engineering https://mscie.hmu.gr </b>
 
