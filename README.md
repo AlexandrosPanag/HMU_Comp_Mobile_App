@@ -35,8 +35,8 @@ Welcome to <b>HMU Comp</b>, an all-in-one application designed for students of H
 Download the mobile apk through your smartphone android device, ensure that your phone's installation settings are: <b>"Allow access from Unknown Apps -> Yes" </b>
 
 ## Current Version
-1.0.1
 
+[1.0.1](https://github.com/AlexandrosPanag/HMU_Companion_Application/releases/tag/v.0.0.1)
 
 ## License
 
