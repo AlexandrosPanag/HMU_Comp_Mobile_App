@@ -1,5 +1,7 @@
 # HMU Comp - A mobile HMU Companion Application
 
+This is the HMU Companion Application, an Android application designed to provide useful information and resources for students and faculty at HMU.
+
 
 ## Introduction
 
@@ -19,9 +21,7 @@ Welcome to <b>HMU Comp</b>, an all-in-one application designed for students of H
 
 <b> Hellenic Mediterranean University (HMU) hmu.gr </b>
 
-# HMU Companion Application
 
-This is the HMU Companion Application, an Android application designed to provide useful information and resources for students and faculty at HMU.
 
 ## Features
 
