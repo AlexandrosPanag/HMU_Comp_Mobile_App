@@ -1,10 +1,16 @@
 # HMU Comp - A mobile HMU Companion Applicatiion
 
 
-Credits: HMU M.Sc. In Informatics Engineering https://mscie.hmu.gr, Hellenic Mediterranean University (HMU) hmu.gr, [@alexandrospanag](https://github.com/alexandrospanag)
+##Introduction
+
+Welcome to HMU Comp, an all-in-one application designed for students of HMU. This app provides easy access to essential resources such as grades, schedules, faculty information, news, and more. Stay organized and up-to-date with everything you need for your academic journey at HMU.
+
 
 ![](https://raw.githubusercontent.com/AlexandrosPanag/HMU_Companion_Application/refs/heads/main/Version_1_0_1.png)
- 
+
+
+Credits: HMU M.Sc. In Informatics Engineering https://mscie.hmu.gr, Hellenic Mediterranean University (HMU) hmu.gr, [@alexandrospanag](https://github.com/alexandrospanag)
+
 # HMU Companion Application
 
 This is the HMU Companion Application, an Android application designed to provide useful information and resources for students and faculty at HMU.
@@ -22,7 +28,7 @@ This is the HMU Companion Application, an Android application designed to provid
 Download the mobile apk through your smartphone android device, ensure that your phone's installation settings are "Allow access from Unknown Apps -> Yes" & you're ready to launch the application!
 
 ## Current Version
-1.0.0
+1.0.1
 
 
 ## License
